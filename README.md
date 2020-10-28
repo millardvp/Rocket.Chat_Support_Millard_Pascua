@@ -2,6 +2,7 @@
 Technical assessment - Rocket.Chat Enterprise Solutions team - Technical Support Analyst position
 
 **IMPORTANT NOTE on each Document**
+
 Rocket.Chat Install Server Documentation Part1:
 The tool I used is “Ngrok” that exposes the localhost through a secure connection. Please do take note that ngrok used in this technical challenge is a free trial and is limited to 8hrs. That may require the reviewee to notify me to run ngrok or provide the time to access the environment within the limitation of the free trial.
 
