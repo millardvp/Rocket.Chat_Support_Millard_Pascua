@@ -11,8 +11,8 @@ Username: adm.millard
 Password: 071203
 
 Rocket.Chat APIs Test Part 2:
-Get a list of all user roles in the system via an API endpoint.
-o	*Please take note that I provided two request/response, because it stated that “get a list of all user roles”. I’m not sure if it meant to get the user roles list or a list of all user and their roles.*
+Get a list of all user roles in the system via an API endpoint:
+Please take note that I provided two request/response, because it stated that “get a list of all user roles”. I’m not sure if it meant to get the user roles list or a list of all user and their roles.
 
 I also provided json file on each operation.
 
